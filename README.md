@@ -1,7 +1,9 @@
 # Sign-Language-Fingerspelling-Assistant-ASL-Alphabet-Project-
 American Sign Language (ASL) Fingerspelling Recognition System
 ------------------------------------------------
-![image](
+![image](https://github.com/Salma-Salah420/Sign-Language-Fingerspelling-Assistant-ASL-Alphabet-Project-/blob/ea2349c99e3a9b73bc38ddb292f5a5903cd31788/ASLAlphabet-3.jpg)
+
+------------------------------
  Project Objective:
  -------------------
 Develop an intelligent deep learning system that recognizes and translates American Sign Language (ASL) alphabet gestures from images and real-time video into text, promoting accessibility and communication for the deaf and hard-of-hearing community.
