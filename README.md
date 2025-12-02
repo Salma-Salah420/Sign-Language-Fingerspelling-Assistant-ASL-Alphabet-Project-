@@ -21,15 +21,24 @@ Real-world Impact: Bridge communication gap between ASL users and non-signers.
 -------------------------------------
 
 🏗️ Technical Architecture:
+----------------------------
 1.Model Development 
+------------------
 2.Preprocessing Pipeline:
+---------------------
 -Hand Segmentation: MediaPipe Hands for robust hand detection.
 -Data Augmentation.
+--------------------------
 3.Model Evaluation 
+-----------------
 Performance Metrics
 Architecture Comparison Table
+---------------------------
 4.Grad-CAM Visualization
+---------------------
 5.GUI Implementation
+------------------------
 6.Real-time Sentence Builder
 ----------------------------------
-Roles:
+Roles of Members:
+-----------------
