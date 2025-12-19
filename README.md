@@ -39,12 +39,23 @@ Secondly:Mobile net accuracy:
 ===========================
 ![image](https://github.com/Salma-Salah420/Sign-Language-Fingerspelling-Assistant-ASL-Alphabet-Project-/blob/0aeed175884789ebaca1094c08649213db5cbd39/images/WhatsApp%20Image%202025-12-19%20at%2019.53.51.jpeg)
 
-Thirdly:Inception Model:
+Thirdly: Efficient Model P1:
 ===========================
+![image](https://github.com/Salma-Salah420/Sign-Language-Fingerspelling-Assistant-ASL-Alphabet-Project-/blob/5cf9e058f60e722849170fd185b97e1e531dcfe7/images/nada%20model%20effiencient%20net.jpeg)
+
+Fourthly:Inception Model
+==========================
+
+Fifthly: Efficient net P0:
+========================
+
+Lastely:
+=========
 
 -----------------
 Performance Metrics
 Architecture Comparison Tables
+such as precision, Recall , F1 score
 ---------------------------
 4.Grad-CAM Visualization
 ---------------------
@@ -55,9 +66,15 @@ Architecture Comparison Tables
 Roles of Members:
 -----------------
 Mariam Abdelfattah>> Preprocessing+mobilenet model
+
 Salma Salah>> Squeeze net model+Github managment
+
 Fatema Tarek>> Inception model+ GUI
+
 Nada Walied>> efficient net model 
+
 Shahd Mamdouh>>efficient net model(another version)+ Documentation
+
 Sahad Mohamed>> Model+GradCam
+
 ========================
