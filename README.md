@@ -37,7 +37,10 @@ Firstly:Squeeze net accuracy:
 
 Secondly:Mobile net accuracy:
 ===========================
+![image](https://github.com/Salma-Salah420/Sign-Language-Fingerspelling-Assistant-ASL-Alphabet-Project-/blob/0aeed175884789ebaca1094c08649213db5cbd39/images/WhatsApp%20Image%202025-12-19%20at%2019.53.51.jpeg)
 
+Thirdly:Inception Model:
+===========================
 
 -----------------
 Performance Metrics
