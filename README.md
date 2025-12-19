@@ -65,16 +65,16 @@ such as precision, Recall , F1 score
 ----------------------------------
 Roles of Members:
 -----------------
-Mariam Abdelfattah>> Preprocessing+mobilenet model
+Mariam Abdelfattah>> Preprocessing + MobileNet Model
 
-Salma Salah>> Squeeze net model+Github managment
+Salma Salah>> SqueezeNet Model+ Github Managment
 
-Fatema Tarek>> Inception model+ GUI
+Fatema Tarek>> Inception(V3) Model + GUI
 
-Nada Walied>> efficient net model 
+Nada Walied>> EfficientNet Model(B0)
 
-Shahd Mamdouh>>efficient net model(another version)+ Documentation
+Shahd Mamdouh>> EfficientNet Model(B1) + Documentation
 
-Sahad Mohamed>> Model+GradCam
+Shahd Mohamed>> Model + GradCam
 
 ========================
