@@ -29,7 +29,12 @@ Real-world Impact: Bridge communication gap between ASL users and non-signers.
 -Hand Segmentation: MediaPipe Hands for robust hand detection.
 -Data Augmentation.
 --------------------------
-3.Model Evaluation 
+3.Model Evaluation:
+==================
+Squeeze net accuracy:
+![Uploading Screenshot 2025-12-19 202141.png…]()
+
+
 -----------------
 Performance Metrics
 Architecture Comparison Tables
@@ -42,3 +47,10 @@ Architecture Comparison Tables
 ----------------------------------
 Roles of Members:
 -----------------
+Mariam Abdelfattah>> Preprocessing+mobilenet model
+Salma Salah>> Squeeze net model+Github managment
+Fatema Tarek>> Inception model+ GUI
+Nada Walied>> efficient net model 
+Shahd Mamdouh>>efficient net model(another version)+ Documentation
+Sahad Mohamed>> Model+GradCam
+========================
