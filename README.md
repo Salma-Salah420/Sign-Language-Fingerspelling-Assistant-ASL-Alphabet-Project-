@@ -31,8 +31,12 @@ Real-world Impact: Bridge communication gap between ASL users and non-signers.
 --------------------------
 3.Model Evaluation:
 ==================
-Squeeze net accuracy:
+Firstly:Squeeze net accuracy:
+=====================
 ![image](https://github.com/Salma-Salah420/Sign-Language-Fingerspelling-Assistant-ASL-Alphabet-Project-/blob/3af627701fefd6d8e44c0e90978fd98add5798e1/images/Screenshot%202025-12-19%20202141.png)
+
+Secondly:Mobile net accuracy:
+===========================
 
 
 -----------------
