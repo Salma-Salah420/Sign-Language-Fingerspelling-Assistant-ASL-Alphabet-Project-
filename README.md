@@ -32,7 +32,7 @@ Real-world Impact: Bridge communication gap between ASL users and non-signers.
 3.Model Evaluation 
 -----------------
 Performance Metrics
-Architecture Comparison Table
+Architecture Comparison Tables
 ---------------------------
 4.Grad-CAM Visualization
 ---------------------
