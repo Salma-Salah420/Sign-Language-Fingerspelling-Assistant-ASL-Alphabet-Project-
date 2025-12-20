@@ -44,6 +44,7 @@ Thirdly: Efficient Model P1:
 
 Fourthly:Inception Model
 ==========================
+![image](https://github.com/Salma-Salah420/Sign-Language-Fingerspelling-Assistant-ASL-Alphabet-Project-/blob/50314f6a5174318c8a3e9658193f62f07f234f5f/images/WhatsApp%20Image%202025-12-19%20at%2021.36.15.jpeg)
 
 Fifthly: Efficient net P0:
 ========================
