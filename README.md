@@ -58,8 +58,15 @@ Architecture Comparison Tables
 such as precision, Recall , F1 score
 ---------------------------
 4.Grad-CAM Visualization
+========================
+as user can make an ASL to capture a photo for any letter then see the accuracy of each model and who can predict him.
 ---------------------
-5.GUI Implementation
+5.GUI Implementation:
+====================
+We will upload a photo for a letter in ASL.
+then wait the results as how each model can identify this letter.
+each model can predict according to its accuracy
+
 ------------------------
 6.Real-time Sentence Builder
 ----------------------------------
