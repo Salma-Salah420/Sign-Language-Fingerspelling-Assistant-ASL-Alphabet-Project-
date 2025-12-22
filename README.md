@@ -49,7 +49,10 @@ Fourthly:Inception Model
 Fifthly: Efficient net P0:
 ========================
 
-Lastely:
+Lastely: CONVNEXTTINY:
+==================
+![image](https://github.com/Salma-Salah420/Sign-Language-Fingerspelling-Assistant-ASL-Alphabet-Project-/blob/a7a9e5f74ea16239470d401bc8a1a9f9eda97d63/images/training_history%20convnettiny.png)
+
 =========
 
 -----------------
