@@ -38,7 +38,7 @@ Secondly:Mobile net accuracy:
 ===========================
 ![image](https://github.com/Salma-Salah420/Sign-Language-Fingerspelling-Assistant-ASL-Alphabet-Project-/blob/0aeed175884789ebaca1094c08649213db5cbd39/images/WhatsApp%20Image%202025-12-19%20at%2019.53.51.jpeg)
 
-Thirdly: Efficient Model P1:
+Thirdly: Efficient Model B1:
 ===========================
 ![image](https://github.com/Salma-Salah420/Sign-Language-Fingerspelling-Assistant-ASL-Alphabet-Project-/blob/5cf9e058f60e722849170fd185b97e1e531dcfe7/images/nada%20model%20effiencient%20net.jpeg)
 
